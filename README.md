@@ -1,2 +1,2 @@
 # Speech-Commands-Classifier
-Speech Commands Classifier: Model trained from scratch on the Speech Commands dataset. Includes separate notebooks for training and inference
+This repository showcases the training and inference processes of the model trained on  https://pytorch.org/audio/stable/generated/torchaudio.datasets.SPEECHCOMMANDS.html#torchaudio.datasets.SPEECHCOMMANDS
